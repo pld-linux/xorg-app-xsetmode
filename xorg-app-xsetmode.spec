@@ -1,5 +1,5 @@
 Summary:	xsetmode application
-Summary(pl.UTF-8):   Aplikacja xsetmode
+Summary(pl.UTF-8):	Aplikacja xsetmode
 Name:		xorg-app-xsetmode
 Version:	1.0.0
 Release:	1
