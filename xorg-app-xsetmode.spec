@@ -1,5 +1,5 @@
 Summary:	xsetmode application
-Summary(pl):	Aplikacja xsetmode
+Summary(pl.UTF-8):   Aplikacja xsetmode
 Name:		xorg-app-xsetmode
 Version:	1.0.0
 Release:	1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 xsetmode application.
 
-%description -l pl
+%description -l pl.UTF-8
 Aplikacja xsetmode.
 
 %prep
