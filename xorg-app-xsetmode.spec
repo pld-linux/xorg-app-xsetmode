@@ -4,7 +4,7 @@ Name:		xorg-app-xsetmode
 Version:	1.0.0
 Release:	1
 License:	MIT
-Group:		X11/Application
+Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xsetmode-%{version}.tar.bz2
 # Source0-md5:	d074e79d380b031d2f60e4cd56538c93
 URL:		http://xorg.freedesktop.org/
