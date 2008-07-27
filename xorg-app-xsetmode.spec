@@ -2,7 +2,7 @@ Summary:	xsetmode application
 Summary(pl.UTF-8):	Aplikacja xsetmode
 Name:		xorg-app-xsetmode
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xsetmode-%{version}.tar.bz2
